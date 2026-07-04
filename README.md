@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Твоё Имя]
+# [Елена]
 
 ### Vibe Engineer · Full-cycle product development
 
